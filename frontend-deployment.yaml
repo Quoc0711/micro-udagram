@@ -16,7 +16,7 @@ spec:
         api: external
     spec:
       containers:
-        - image: quoctc11/udagram-frontend:latest	
+        - image: quoctc11/udagram-frontend:v6	
           name: udagram-frontend
           imagePullPolicy: Always
           ports:
