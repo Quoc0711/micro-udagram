@@ -7,6 +7,6 @@ data:
   JWT_SECRET: hello
   POSTGRES_DATABASE: cdr
   POSTGRES_HOST: cdr.cr5q4t5sgwma.us-west-1.rds.amazonaws.com
-  URL: http://ab9c43acdf7bb4c62befe1df40f9b5cf-1080093444.us-west-1.elb.amazonaws.com:8100
+  URL: http://a4ba58b45ea324a2eb36c122bd9c9517-1817548000.us-west-1.elb.amazonaws.com:8100
 metadata:
   name: env-config
